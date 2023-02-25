@@ -1,0 +1,22 @@
+{
+  "name": "UserTest",
+  "username": "USERTEST",
+  "email": "UserTest@test.com",
+  "address": {
+    "street": "Test Street",
+    "suite": "Test. 556",
+    "city": "CityTest",
+    "zipcode": "12345-6789",
+    "geo": {
+      "lat": "-56.2345",
+      "lng": "22.3452"
+    }
+  },
+  "phone": "024-648-3804",
+  "website": "test.net",
+  "company": {
+    "name": "Test-Company",
+    "catchPhrase": "Centralized empowering task-force",
+    "bs": "target end-to-end models"
+  }
+}
